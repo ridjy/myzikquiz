@@ -1,0 +1,35 @@
+
+[ class*="span"] {
+background-color: ;
+margin-bottom: 15px;
+border-radius: 5px 5px 5px 5px;
+line-height: 20px;
+text-align: center;
+}
+
+button {
+	}
+
+#Main_div
+{
+	/*position:absolute;
+	width:340px;
+	height:600px;
+	top:50%;
+	left:50%;
+	margin-left:-170px;
+	margin-top:-300px;
+	background: #DDD;
+	border:1px dotted blue;	*/
+	
+}
+
+#tete{
+	margin-top: 35px;
+}
+
+/*rgba(0,153,204,0.7)*/
+
+.btn-group > .btn, .btn-group > .dropdown-menu, .btn-group > .popover {
+    font-size: 16px;
+}

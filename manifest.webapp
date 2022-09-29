@@ -1,0 +1,32 @@
+{
+	"version" : "1.0",
+	"name": "My zik quizz",
+	"description": "jeux quiz sur la connaissance des chansons ",
+	"launch_path": "/index.html",
+	"default_locale" : "fr",
+	"icons": { 
+		"16": "/img/icon/icon-16.png",
+		"32": "/img/icon/icon-32.png",
+    	"48": "/img/icon/icon-48.png",
+		"60": "/img/icon/icon-60.png",
+		"90": "/img/icon/icon-90.png",
+    	"128": "/img/icon/icon-128.png"
+		} ,
+	"developer": {
+	"name": "RAKOTOMALALA Rijanavalona Eddy",
+	"url": "http://www.partage-facile.com/AGHPMUK51B/application.zip.html"
+	},
+	"locales": {
+		"en-US": {
+			"name": "My zik quizz",
+			"description": "Game quiz of songs"
+		},
+		"fr" : {
+			"name": "My zik quizz",
+			"description": "jeux quiz sur la connaissance des chansons "
+		}
+	},
+	"default_locale": "fr",
+    "fullscreen" : "true",
+	"orientation": ["portrait"]
+}
